@@ -1,3 +1,3 @@
-# EFPR-Stereo
+# SFPR-Stereo
 
 Coming soon...
