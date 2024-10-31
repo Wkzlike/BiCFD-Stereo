@@ -1,3 +1,3 @@
-# SFPR-Stereo
+# BiCFD-Stereo
 
 Coming soon...
