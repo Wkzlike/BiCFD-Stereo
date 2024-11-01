@@ -1,3 +1,3 @@
-# BiCFD-Stereo
+# BiPFF-Stereo
 
 Coming soon...
